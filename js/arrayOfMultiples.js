@@ -12,3 +12,5 @@
 }
 console.log(arrayOfMultiples)
 
+// At least one of your solutions must include a for OR while loop
+//At least one of your solutions must include an array

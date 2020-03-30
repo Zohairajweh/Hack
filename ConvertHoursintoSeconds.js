@@ -3,3 +3,6 @@ function howManySeconds(hours) {
 return hours;
 }
 console.log(howManySeconds);
+// Convert Hours into Seconds
+// Write a function that converts hours into seconds.
+
